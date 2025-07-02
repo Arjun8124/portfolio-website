@@ -64,4 +64,15 @@
   #footer {
     flex-direction: column;
   }
+  .header-icons i {
+    font-size: 2rem !important; /* Adjust as needed */
+  }
+  .header-icons img {
+    height: 30px !important;
+    width: 30px !important;
+  }
+  .github-button,
+  .preview-button {
+    flex-direction: column;
+  }
 }
